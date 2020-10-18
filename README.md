@@ -10,4 +10,4 @@
 ### Xception Model
 ![alt text](https://github.com/nogifeet/Intel-Image-Dataset/blob/main/xception.png "Xception")
 
-###### For a more detailed explanation refer to Cat vs Dog Image Classification using VGG-19 Transfer Learning
+###### For a more detailed explanation refer to Intel Image Classification.pptx
