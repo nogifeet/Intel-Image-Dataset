@@ -11,4 +11,9 @@
 ### Xception Model
 ![alt text](https://github.com/nogifeet/Intel-Image-Dataset/blob/main/xception.png "Xception")
 
+###### MATLAB Training & Loss Graph
+![alt text](https://github.com/nogifeet/Intel-Image-Dataset/blob/main/training_acc_intel.png "Training Plot")
+
+
+
 ###### For a more detailed explanation refer to Intel Image Classification.pptx
