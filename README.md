@@ -12,7 +12,7 @@
 ![alt text](https://github.com/nogifeet/Intel-Image-Dataset/blob/main/xception.png "Xception")
 
 ###### MATLAB Training & Loss Graph
-![alt text](https://github.com/nogifeet/Intel-Image-Dataset/blob/main/training_acc_intel.png "Training Plot")
+![alt text](https://github.com/nogifeet/Intel-Image-Dataset/blob/main/training_acc_intel.PNG "Training Plot")
 
 
 
